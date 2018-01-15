@@ -11,3 +11,5 @@ git diff filename
 git log
 
 git reflog
+
+git checkout -- filename
