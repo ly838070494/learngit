@@ -8,4 +8,6 @@ git status
 
 git diff filename
 
+git log
 
+git reflog
