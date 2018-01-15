@@ -1,2 +1,11 @@
-start learn git
-git is free software
+git init
+
+git add filename
+
+git commit -m "info"
+
+git status
+
+git diff filename
+
+
